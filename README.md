@@ -18,12 +18,11 @@ My name is Vadym Volin and I'm a software engineer. I'm from Ukraine, living in 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/VadymVolin/VadymVolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&langs_count=10&theme=dark&count_private=true&show_icons=true&layout=compact" />
 </a>
 <a href="https://github.com/VadymVolin/VadymVolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VadymVolin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vadym's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VadymVolin&show_icons=true&line_height=24&count_private=true&theme=dark" alt="Vadym's GitHub Stats" />
 </a>
-
 <!--
 **VadymVolin/VadymVolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
