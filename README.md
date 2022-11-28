@@ -1,5 +1,5 @@
 # Hi guys 👋
-My name is Vadym Volin and I'm a software engineer. I'm from Ukraine, living in Sumy and currently working at 3SS. You can find me on LinkedIn _[:link: ](https://www.linkedin.com/in/vadimvolin/)_.
+My name is Vadym and I'm a software engineer. I'm from Ukraine, living in Sumy and currently working at 3SS. You can find me on LinkedIn _[:link: ](https://www.linkedin.com/in/vadimvolin/)_.
 
 ## 🔧 Technologies & Tools
 
