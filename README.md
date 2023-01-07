@@ -1,13 +1,15 @@
-## Hi. My name is Vadym ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-<!-- I'm from Ukraine, living in Sumy and currently working at 3SS. You can find me on LinkedIn _[:link: ](https://www.linkedin.com/in/vadimvolin/)_. 
--->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadym
+=============================================================================================================================
 Software Engineer
 -----------------
 
 * 🌍  I'm based in Sumy, Ukraine and currently working at [3SS](https://www.3ss.tv/).
 * ✉️  You can contact me at [vadim.volin1@gmail.com](mailto:vadim.volin1@gmail.com)
 * 🧠  I'm learning Kotlin, Java, Ktor framework and Android
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/VadymVolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vadimvolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vadym_volin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## 🔧 Technologies & Tools
 
@@ -38,15 +40,3 @@ Software Engineer
 </div>
 <!--
 **VadymVolin/VadymVolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
