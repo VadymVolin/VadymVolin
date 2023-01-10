@@ -31,7 +31,7 @@ Software Engineer
 
 <div style="display:flex; flex-flow: row-wrap;">
 <a href="https://github.com/VadymVolin/VadymVolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&langs_count=10&theme=transperent&count_private=true&show_icons=true&hide=css,html&card_width=450&layout=compact&line_height=28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&langs_count=10&theme=transperent&count_private=true&show_icons=true&hide=css,html&card_width=350&layout=compact&line_height=28" />
 </a>
 <a href="https://github.com/VadymVolin/VadymVolin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VadymVolin&show_icons=true&count_private=true&theme=transperent&card_width=450&line_height=28.5" alt="Vadym's GitHub Stats" />
