@@ -31,10 +31,10 @@ Software Engineer
 
 <div style="display:flex; flex-flow: row-wrap;">
 <a href="https://github.com/VadymVolin/VadymVolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&langs_count=10&theme=transperent&count_private=true&show_icons=true&hide=css,html&card_width=475&layout=compact&line_height=28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymVolin&langs_count=10&theme=transperent&count_private=true&show_icons=true&hide=css,html&card_width=450&layout=compact&line_height=28" />
 </a>
 <a href="https://github.com/VadymVolin/VadymVolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VadymVolin&show_icons=true&count_private=true&theme=transperent&card_width=475&line_height=28.5" alt="Vadym's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VadymVolin&show_icons=true&count_private=true&theme=transperent&card_width=450&line_height=28.5" alt="Vadym's GitHub Stats" />
 </a>
 <a href="http://www.github.com/VadymVolin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VadymVolin&bg_color=f2f2f2&color=5e5e5e&line=ffdac2&point=ff6600&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 </div>
