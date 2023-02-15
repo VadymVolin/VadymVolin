@@ -20,7 +20,7 @@ Software Engineer
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&color=orange)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=orange)
 ![](https://img.shields.io/badge/Platform-Android-informational?style=for-the-badge&logo=Android&color=orange)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&color=orange)
+![](https://img.shields.io/badge/Code-Ktor-informational?style=for-the-badge&logo=kotlin&color=orange)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=spring&color=orange)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&color=orange)
 ![](https://img.shields.io/badge/Shell-Shell-informational?style=for-the-badge&logo=shell&color=orange)
