@@ -13,7 +13,7 @@ Software Engineer
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=orange)
+![](https://img.shields.io/badge/OS-Debian-informational?style=for-the-badge&logo=linux&color=orange)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&color=orange)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=for-the-badge&logo=android-studio&color=orange)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=vs-code&color=orange)
