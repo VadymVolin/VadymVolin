@@ -9,9 +9,9 @@ Software Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/VadymVolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vadimvolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vadym_volin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/vadimvolin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vadym_volin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Debian-informational?style=for-the-badge&logo=linux&color=orange)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&color=orange)
